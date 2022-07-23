@@ -1,0 +1,14 @@
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.exe
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.deps.json
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.runtimeconfig.json
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.runtimeconfig.dev.json
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.dll
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.pdb
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.csproj.AssemblyReference.cache
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.AssemblyInfoInputs.cache
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.AssemblyInfo.cs
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.dll
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.pdb
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.genruntimeconfig.cache
