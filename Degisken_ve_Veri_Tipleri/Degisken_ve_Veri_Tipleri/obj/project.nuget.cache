@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NiqDY9xear7SAxCt14OINa7qhBUdErH0iRjVcsgkr49QvASZlroC4HLN/NVr1vk35ztkq3/jWyn1caEsnUOcUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alican\\Desktop\\patika.dev .netcore (c#) benim yaptıklarım\\Degisken_ve_Veri_Tipleri\\Degisken_ve_Veri_Tipleri\\Degisken_ve_Veri_Tipleri.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alican\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

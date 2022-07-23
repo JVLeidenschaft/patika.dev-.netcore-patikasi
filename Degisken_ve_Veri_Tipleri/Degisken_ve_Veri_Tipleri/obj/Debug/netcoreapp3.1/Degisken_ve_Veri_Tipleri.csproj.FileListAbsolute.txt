@@ -1,0 +1,14 @@
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\bin\Debug\netcoreapp3.1\Degisken_ve_Veri_Tipleri.exe
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\bin\Debug\netcoreapp3.1\Degisken_ve_Veri_Tipleri.deps.json
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\bin\Debug\netcoreapp3.1\Degisken_ve_Veri_Tipleri.runtimeconfig.json
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\bin\Debug\netcoreapp3.1\Degisken_ve_Veri_Tipleri.runtimeconfig.dev.json
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\bin\Debug\netcoreapp3.1\Degisken_ve_Veri_Tipleri.dll
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\bin\Debug\netcoreapp3.1\Degisken_ve_Veri_Tipleri.pdb
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\obj\Debug\netcoreapp3.1\Degisken_ve_Veri_Tipleri.csproj.AssemblyReference.cache
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\obj\Debug\netcoreapp3.1\Degisken_ve_Veri_Tipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\obj\Debug\netcoreapp3.1\Degisken_ve_Veri_Tipleri.AssemblyInfoInputs.cache
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\obj\Debug\netcoreapp3.1\Degisken_ve_Veri_Tipleri.AssemblyInfo.cs
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\obj\Debug\netcoreapp3.1\Degisken_ve_Veri_Tipleri.csproj.CoreCompileInputs.cache
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\obj\Debug\netcoreapp3.1\Degisken_ve_Veri_Tipleri.dll
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\obj\Debug\netcoreapp3.1\Degisken_ve_Veri_Tipleri.pdb
+C:\Users\Alican\Desktop\patika.dev .netcore (c#) benim yaptıklarım\Degisken_ve_Veri_Tipleri\Degisken_ve_Veri_Tipleri\obj\Debug\netcoreapp3.1\Degisken_ve_Veri_Tipleri.genruntimeconfig.cache
